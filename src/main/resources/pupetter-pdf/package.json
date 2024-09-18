@@ -1,0 +1,7 @@
+{
+  "name": "spring-pdf",
+  "version": "1",
+  "dependencies": {
+    "puppeteer": "^22.12.1"
+  }
+}

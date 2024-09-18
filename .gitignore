@@ -18,8 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
-/src/main/resources/pupetter-pdf/
-node_modeules
+/src/main/resources/pupetter-pdf/node_modules/**
+package-lock.json
 
 
 ### NetBeans ###
